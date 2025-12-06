@@ -19,7 +19,7 @@ This project for FreshMart focuses on improving operations, marketing, and custo
  
 ## Datasets 
 
-**Patients.csv ** - invoice id, branch, city, customer type, gender, payment, product line, unit price, quantity, tax 5%, total, cogs, gross margin %, date, and time.
+- Patients.csv - invoice id, branch, city, customer type, gender, payment, product line, unit price, quantity, tax 5%, total, cogs, gross margin %, date, and time.
 --- 
 ## Dashboard Features 
 -	Key KPIs: Total Sales, Number of Transactions, Average Sales  
