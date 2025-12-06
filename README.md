@@ -10,16 +10,16 @@ This project for FreshMart focuses on improving operations, marketing, and custo
 
 --- 
  
-## Project Objective 
-i.	 Identify the busiest times in each location and make sure staff are scheduled appropriately to reduce overtime costs and shorten customer wait times.
-ii.	Analyze whether members spend more or provide additional benefits compared to regular customers to decide if the program is worth continuing
-iii.	Study who buys each product category so that marketing efforts are focused on the right audience and the budget is used effectively.
-iv.	Examine whether high-spending customers are satisfied and take steps to improve their experience to maintain their loyalty.
+## Project Objective
+- Identify the busiest times in each location and make sure staff are scheduled appropriately to reduce overtime costs and shorten customer wait times.
+- Analyze whether members spend more or provide additional benefits compared to regular customers to decide if the program is worth continuing
+- Study who buys each product category so that marketing efforts are focused on the right audience and the budget is used effectively.
+- Examine whether high-spending customers are satisfied and take steps to improve their experience to maintain their loyalty.
 --- 
  
 ## Datasets 
 
-**Patients.csv ** -  invoice id, branch, city, customer type, gender, payment, product line, unit price, quantity, tax 5%, total, cogs, gross margin %, date, and time.
+**Patients.csv ** - invoice id, branch, city, customer type, gender, payment, product line, unit price, quantity, tax 5%, total, cogs, gross margin %, date, and time.
 --- 
 ## Dashboard Features 
 -	Key KPIs: Total Sales, Number of Transactions, Average Sales  
