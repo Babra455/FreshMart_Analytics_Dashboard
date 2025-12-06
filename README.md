@@ -61,7 +61,7 @@ This project for FreshMart focuses on improving operations, marketing, and custo
 --- 
  
 ## How to Run / View 
-1.	Open `FreshMart  Analytics Dashboard.xlsx` in Excel (desktop recommended)   
+1.	Open `FreshMart Analytics Dashboard.xlsx` in Excel (desktop recommended)   
 2.	Enable content (if prompted) to allow Pivot Tables and slicers to work   
 3.	Use slicers to filter for Product Line, City and Customer Type 
 4.	Refer to `FreshMart Presentation.pdf` for a summary of insights and recommended actions 
