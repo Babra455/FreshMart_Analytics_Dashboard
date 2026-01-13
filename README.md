@@ -54,7 +54,7 @@ This project for FreshMart focuses on improving operations, marketing, and custo
 ## Project Files (included) 
 -	`FreshMart Analytics Dashboard.xlsx` — interactive dashboard file   
 -	`Supermarket Datasets` — raw data files used for analysis (CSV / XLSX)   
--	`FreshMart Presentation.pdf` — boardroom slide deck (10–12 slides)   
+-	`FreshMart Presentation.pdf` — boardroom slide deck (12 slides)   
 -	`README.md` — this documentation 
 -	`MP_Excel_Project_3` – The problem
  
